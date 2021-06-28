@@ -1,0 +1,22 @@
+comandos:
+ls -R me muestra los archivos en su respectiva carpeta; vista general
+rm: borrar archivo (parado en la carpeta)
+rmdir: borrar carpeta (debe estar vacía)
+rm -r borrar carpeta con contenido
+
+nano: crea y edita archivo
+dentro de nano:
+ctrl+o: guarda la versión del archivo
+ctrl+x:sale a la terminal
+
+cat: muestra el contenido del archivo editado
+more: muestra contenido del archivo
+
+GIT
+git init: inicializa un repaitorio local en al carpeta actual
+git branch -M nuevonombre: cambia el nombre de la rama principal
+git branch: muestralas ramas disponibles
+
+
+
+
