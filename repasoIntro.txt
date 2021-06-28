@@ -16,6 +16,13 @@ GIT
 git init: inicializa un repaitorio local en al carpeta actual
 git branch -M nuevonombre: cambia el nombre de la rama principal
 git branch: muestralas ramas disponibles
+git status: muestra el estado 
+git config user.name: declara el nombre del dueño del repositorio, debe coincidir con el github
+git config user.email
+git add . :agrega todos los archivos en la carpeta
+git commit -m "mensaje": hace commit por lo que queda listo para el push
+git log: te muestra el historial de commits con fechas y autores
+
 
 
 
