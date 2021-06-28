@@ -22,6 +22,8 @@ git config user.email
 git add . :agrega todos los archivos en la carpeta
 git commit -m "mensaje": hace commit por lo que queda listo para el push
 git log: te muestra el historial de commits con fechas y autores
+git branch newbranch: crea una nueva rama con el nombre newbranch
+git checkout :cambia a la rama que s ele indique
 
 
 
